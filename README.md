@@ -1,1 +1,1 @@
-# distributed-erlang-chat
+# Распределенный чат на Ерланге
